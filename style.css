@@ -1,1 +1,147 @@
+ body {
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+ .firstsection {
+     margin-left: 20%;
+     margin-right: 20%;
+     padding-bottom: 10%;
+ }
+
+  #hello, #focuson {
+      font-size: 40px;
+  }
+
+   #name {
+       font-size: 100px;
+       color: #1c1589;
+       line-height: 80px;
+       text-align: left;
+       padding-top: 20px;
+       padding-bottom: 40px;
+   }
+
+   #digitaldesign {
+       font-size: 30px;
+       color: #5049b4;
+   }
+
+   button {
+       margin-top: 100px;
+       width: 20%;
+       height: 10%;
+       color: #1c1589;
+       box-sizing: content-box;
+   }
+
+   .secondsection {
+       background-image: url("backdrop.jpg");
+       background-size: cover;
+       padding-left: 10%;
+       padding-top: 10%;
+       padding-bottom: 10%;
+   }
+
+
+   #latest {
+       color: beige;
+       font-size: 30px;
+       font-weight: 300;
+       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+       letter-spacing: 20px;
+       padding-left: 40px;
+    }
+
+    #digitall {
+        color: white;
+        font-size: 100px;
+        padding-top: 80px;
+    }
+
+    #webapp {
+        color: white;
+        font-size: 30px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        letter-spacing: 20px;
+        padding-top: 10px;
+    }
+
+    img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        margin-left: 18%;
+        margin-right: 20%;
+        margin-top: 10%;
+        margin-bottom: -15%;
+    }
+
+    .thirdsection {
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        padding: 100px;
+        font-size: 20px;
+        background-color: rgb(235, 235, 188);
+    }
+
+    #testimonial {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        letter-spacing: 10px;
+    }
+
+    #researcher {
+        color: #1c1589;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    .fourthsection {
+        padding-left: 15%;
+        background-color: blue;
+        font-size: 20px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    #thoughts {
+        color: black;
+        font-size: 25px;
+        letter-spacing: 10px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        padding-bottom: 30px;
+    }
+
+    #list {
+        color: white;
+        letter-spacing: 5px;
+        font-size: 30px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-top: 20px;
+    }
+
+    .lastsection {
+        padding: 10%;
+    }
+
+    textarea {
+        margin: 10px;
+        font-size: 30px;
+    }
+
+    #newsletter {
+        color: #1c1589;
+        font-size: 60px;
+        padding-bottom: 20px;
+    }
+
+    #designstuff {
+        font-size: 40px;
+    }
+
+    #unsubscribe {
+        font-size: 20px;
+        padding-top: 10px;
+    }
 
